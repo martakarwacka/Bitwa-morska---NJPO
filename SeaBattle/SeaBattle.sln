@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{52CEC3BE-3F93-D1BC-6261-38D96724211F}") = "SeaBattle", "Assembly-CSharp.csproj", "{03249F84-3159-3F30-31AE-2E422F42F8B3}"
+EndProject
+Project("{52CEC3BE-3F93-D1BC-6261-38D96724211F}") = "SeaBattle", "Assembly-CSharp-Editor.csproj", "{AE07F8BF-01C0-9B42-4DE6-0E5EBF2E3E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03249F84-3159-3F30-31AE-2E422F42F8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03249F84-3159-3F30-31AE-2E422F42F8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03249F84-3159-3F30-31AE-2E422F42F8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03249F84-3159-3F30-31AE-2E422F42F8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE07F8BF-01C0-9B42-4DE6-0E5EBF2E3E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE07F8BF-01C0-9B42-4DE6-0E5EBF2E3E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE07F8BF-01C0-9B42-4DE6-0E5EBF2E3E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE07F8BF-01C0-9B42-4DE6-0E5EBF2E3E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
